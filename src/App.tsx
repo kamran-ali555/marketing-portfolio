@@ -31,8 +31,8 @@ function App() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <a href="#" className="flex items-center">
-                <Briefcase className="h-8 w-8 text-blue-400 mr-2" />
-                <span className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">DigitalPro</span>
+                {/* <Briefcase className="h-8 w-8 text-blue-400 mr-2" /> */}
+                <span className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">Marketer</span>
               </a>
             </div>
             
